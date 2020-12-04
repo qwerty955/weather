@@ -1,0 +1,66 @@
+#cart_weather{
+    background: rgb(78, 149, 255);
+    opacity: 0.7;
+    border-radius: 100px;
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    width: 50%;;
+    overflow: auto;
+    margin-right: 10px;
+}
+#all1{
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+#cart{
+    width: 49%;
+    border-radius: 100px;
+    background: rgb(78, 149, 255);
+    font-size: 40px;
+    border-radius: 100px;
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    opacity: 0.7;
+    overflow: hidden;
+}
+body{
+    margin: 0;
+}
+#in{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background: rgb(78, 149, 255);
+    opacity: 0.7;
+    
+    border-radius: 100px;
+    margin-top: 10px;
+    overflow: auto;
+    font-size: 40px;
+    display: inline-flex;
+}
+li{
+    list-style-type: none;
+    
+}
+ul{
+    font-size: 60px;
+    float: center;
+}
+input{
+    width: 70%;
+    height: 50px;
+    margin-top: 20px;
+    font-size: 50px;
+}
+button{
+    width: 30%;
+    height: 50px;
+    font-size: 45px;
+    text-align: center;
+}
